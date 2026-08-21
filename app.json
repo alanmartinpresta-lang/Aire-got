@@ -1,0 +1,12 @@
+{
+  "name": "aire-genesis3-immersion",
+  "description": "AIRE Genesis 3 experimental immersion sandbox",
+  "repository": "https://github.com/",
+  "keywords": ["AIRE", "simulation", "agent", "experiment"],
+  "env": {
+    "AIRE_SEED": {
+      "description": "Deterministic world seed",
+      "value": "814237"
+    }
+  }
+}
